@@ -21,4 +21,3 @@ online_sales with columns:
 - Order.csv - dataset
 - Screenshot of Query and Output - PDF format
 - MySQL query
-- Query
